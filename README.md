@@ -18,7 +18,7 @@ Follow these steps to set up LavaAI:
 1. **Clone the repository and set up the environment:**
    - Clone the LavaAI repository:
      ```bash
-     git clone https://github.com/yourusername/LavaAI.git
+     git clone https://github.com/OfficialLavaAI/OfficialLavaAI.git
      ```
    - Navigate to the project directory:
      ```bash
