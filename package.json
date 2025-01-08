@@ -1,0 +1,20 @@
+{
+  "name": "lavaai",
+  "version": "1.0.0",
+  "description": "LavaAI - A Solana-powered platform for AI and blockchain integration.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.83.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
