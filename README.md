@@ -1,17 +1,17 @@
-# LavaAI
+# 🌋 LavaAI
 
 LavaAI is a Solana-powered platform designed to revolutionize how AI connects and operates within blockchain networks. This repository includes tools, libraries, and documentation to get started with LavaAI.
 
 ---
 
-## Features
-- Seamless integration with Solana blockchain.
-- AI-driven interaction models.
-- High-performance decentralized solutions.
+## ✨ Features
+- 🌐 Seamless integration with Solana blockchain.
+- 🤖 AI-driven interaction models.
+- ⚡ High-performance decentralized solutions.
 
 ---
 
-## Installation
+## 🛠️ Installation
 
 Follow these steps to set up LavaAI:
 
@@ -38,3 +38,9 @@ Follow these steps to set up LavaAI:
    Run the application with the following command:
    ```bash
    npm start
+
+## 🧑‍💻 Usage
+- AI Interaction API
+   - Endpoint: /api/ai/process
+   - Use this endpoint to send AI-driven data for processing.
+
