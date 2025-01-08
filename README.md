@@ -43,4 +43,12 @@ Follow these steps to set up LavaAI:
 - AI Interaction API
    - Endpoint: /api/ai/process
    - Use this endpoint to send AI-driven data for processing.
+- Blockchain Interaction API
+   - Endpoint: /api/blockchain/interact
+   - Use this endpoint to interact with the Solana blockchain.
+
+
+## 📧 Contact
+- For questions or support, feel free to reach out to support@lavaai.xyz or open an issue on GitHub.
+
 
